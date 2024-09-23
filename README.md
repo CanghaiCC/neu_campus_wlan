@@ -11,6 +11,8 @@ Python,subprocess模块，selenium模块，windows操作系统(可以diy开机�
 
 > 编辑 start.vbs 将脚本路径改成自己的安装路径
 
+> 编辑 start_campus_login.bat 将其中的路径改成自己的安装路径
+
 ### 写入登录信息
 
 > 将 main.py 中的账号信息改成自己的信息
