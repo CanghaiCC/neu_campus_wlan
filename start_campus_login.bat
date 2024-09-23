@@ -1,0 +1,1 @@
+python "D:\IT\campus_wlan\connect.py" & python "D:\IT\campus_wlan\main.py"
