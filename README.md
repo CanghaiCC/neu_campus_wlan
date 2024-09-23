@@ -11,6 +11,6 @@ Python,subprocess模块，selenium模块，windows操作系统(可以diy开机�
 
 ### 写入登录信息
 
-> 将 ** main.py ** 中的账号信息改成自己的
+> 将 main.py 中的账号信息改成自己的
 
-##就配置完成了！
+## 就配置完成了！
