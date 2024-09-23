@@ -1,2 +1,2 @@
 set ws=WScript.CreateObject("WScript.Shell")
-ws.Run "D:\IT\campus_wlan\start_campus_login.bat",0
+ws.Run "你的路径\start_campus_login.bat",0
