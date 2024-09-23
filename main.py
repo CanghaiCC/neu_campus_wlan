@@ -28,4 +28,4 @@ def auto_login_campus(username, password):
         print("Login failed.")
 
 # 使用你的用户名和密码
-auto_login_campus("20247079", "a2005916")
+auto_login_campus("", "")
