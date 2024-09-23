@@ -1,1 +1,1 @@
-python "D:\IT\campus_wlan\connect.py" & python "D:\IT\campus_wlan\main.py"
+python "你的安装路径\connect.py" & python "你的安装路径\main.py"
