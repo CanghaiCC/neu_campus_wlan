@@ -1,2 +1,2 @@
 # neu_campus_wlan
-利用chatgpt编写的python脚本实现开机自动连接校园网
+利用chatgpt编写的python脚本实现开机自动连接东北大学校园网
