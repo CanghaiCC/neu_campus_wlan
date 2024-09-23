@@ -6,8 +6,8 @@ Python,subprocess模块，selenium模块，windows操作系统(可以diy开机�
 ### 配置开机自启动
 
 > win + R 输入 shell:startup
-> 将 ** start.vbs **移到打开的目录下
-> 编辑 ** start.vbs **将脚本路径改成自己的安装路径
+> 将 start.vbs 移到打开的目录下
+> 编辑 start.vbs 将脚本路径改成自己的安装路径
 
 ### 写入登录信息
 
